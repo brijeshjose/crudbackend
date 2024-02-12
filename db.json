@@ -1,0 +1,60 @@
+{
+  "blogs": [
+    {
+      "title": "India’s Test troubles",
+      "description": "South African test series which started with a hope to conquest the final frontier for Indian cricket team, has turned into post-mortem after their abject surrender in the first test at Centurion. While losing an overseas test is not new for Team India but it is the manner of defeat which should hurt. Beyond the proverbial hurt, there were too many gaping holes, be it in batting – the skill and temperament of young batsmen and in bowling department, where apart from Bumrah and Shami (who is out due to an injury) there is a huge concern. \n\nSome of these concerns have been there for a long time but have gone under the radar as India either continued its unbeaten streak at home or surpassed expectations overseas, especially under the Kohli-Shastri era.\n\nIf we look at India’s overall test record from 1st of Jan 2015, around the time Virat Kohli took over India’s test captaincy from M S Dhoni, we have done well in tests both at home and abroad, as the stats suggest. \n\nIf we dive a bit deeper into India’s overseas test performance only in Sena countries (South Africa, England, New Zealand, and Australia), India managed to win two back-to-back test series in Australia, drew a five-test series 2-2 in England, whereas series wins in South Africa and New Zealand have been missing. India has played 30 tests in Sena countries since Jan 2015 and managed to win 9 of them, losing 17 with 4 ending in draws. ",
+      "image": "https://cricketaddictor.com/wp-content/uploads/2022/11/India.jpeg",
+      "category": "Sports",
+      "date": "01/07/2024, 10:51:10 AM",
+      "id": 1
+    },
+    {
+      "title": "Little Acts of Kindness in Japan",
+      "description": "In this digital world, our minds are flooded with impressions created by others. Some of them turn out to be true, many of them don’t – and that was the case with Japan too.\n\nPersonally, I think that’s the beauty of travelling – it helps us break stereotypes, challenge popular perspectives and form our own impressions. And that’s exactly why to me, Lufthansa’s campaign – “Say yes to the world” – is so meaningful.\n\nThe orderly chaos of Tokyo’s subway intimidated me at first. Will I like this country? I wondered as I dragged my bag among multitudes of people rushing to their stations.\n\nAt the obscure metro station closest to my ryokan, there was no elevator or escalator going up. So I slowly began lugging my bag up (too lazy to convert it into a backpack), when an elderly businessman, dressed in the ubiquitous navy blue suit and in a rush, stopped and gave me a hand. How could I not like that country?\n\nWhile on assignment for Japan Tourism, as I visited my first few Shinto Shrines, my mind was filled with questions about Shintoism – Japan’s indigenous faith – and how Japanese people practiced it.\n\nThese days, Shintoism and Buddhism co-exist in Japan more as a way of life than deep teachings to contemplate. But observing my curiosity and unable to answer my numerous questions, my guide called a friend who still holds Shinto purification rituals and patiently translated our conversation. Just so my curiosity could be quelled.",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/220922155226-japan-tourism-lifting-covid-restrictions.jpg?c=original",
+      "category": "Travel",
+      "date": "01/07/2024, 11:39:23 AM",
+      "id": 2
+    },
+    {
+      "title": "GPT-4: All about the latest update",
+      "description": "To start, let’s clear up something a lot of tech bloggers are not clarifying: there’s a difference between GPT models and implementations. It’s important not to conflate the two.\n\nGPT-4 stands for Generative Pre-trained Transformer 4.  It is a model, specifically an advanced version of OpenAI's state-of-the-art large language model (LLM). A large language model is an AI model trained on massive amounts of text data to act and sound like  humans.\n\nThis is different from ChatGPT, which is an application of the GPT model explicitly designed for conversational language. It has been trained on a large data set of conversational data to give human-like responses. You can use these for text generation, code generation, language translation, summarizing, and answering questions.\n\nGPT-4 is now “Multimodal”, meaning you can input images as well as text. It still doesn’t output images (Like Midjourney or DALL-E), but it can interpret the images it is provided. For example, this extends to being able to check out a meme and tell you why it’s funny.\n\nIt’s worth noting that ChatGPT has not implemented this feature yet, even when you use the paid version (ChatGPT Plus) which uses GPT-4 — another good reason to highlight the difference between the model and the implementation. \n\nPrevious versions of GPT were limited by the amount of text they could keep in their short-term memory, both in the length of the questions you could ask and the answers it could give. However, GPT-4 can now process and handle up to 25,000 words of text from the user. \n\nIn practical terms, that means you could hand it a novella and ask it to process it in one go (but not The Fellowship of The Ring, which would blow its mind at 187k words). Additionally, you can also send it a web link and ask it to digest the text from that page. This also means it can comprehend and retain a conversation better, especially long ones.\n\nAll of this is really good news for programmers who are using tools like ChatGPT to code, because larger context windows allow GPT-4 to generate more advanced code. Now it can understand context better and build complete functions in multiple languages.",
+      "image": "https://sm.ign.com/ign_in/news/o/openais-gp/openais-gpt-4-created-a-playable-version-of-pong-in-under-60_6gbj.jpg",
+      "category": "Technology",
+      "date": "01/07/2024, 11:59:16 AM",
+      "id": 3
+    },
+    {
+      "title": "Beyond the Basics: 8 Textured Wallpaper Designs for Your Home",
+      "description": "Have you ever found yourself staring at your plain walls, yearning for a change that doesn’t involve a sledgehammer or is not a massive construction undertaking? We feel you! That’s where the magic of textured wallpaper swoops in. A home makeover that’s easy, but way more impactful. In this blog, we have spilled the beans on 8 game-changing ideas to spruce up your space with interior wallpaper texture. So, why make permanent changes when you can play with textures every time your style evolves? Join us on a journey of home reinvention – where commitment issues meet interior design dreams! Ready to peel, stick, and transform? Let’s dive in.\n\nTurn heads and wow your guests with bold and patterned wallpaper. Be it a big floral design, geometric patterns or abstract print with textured wallpaper, you don’t need to break the bank to achieve an Instagram-worthy accent wall. Like the living room shown in the image below. We have used a black textured wallpaper with bold line prints for the TV wall. Light grey furnishings beautifully contrast with the overall dark theme of the living room.",
+      "image": "https://www.asianpaints.com/content/dam/asian_paints/wall-coverings/room-shots/wallpaper-room-shot-asian-paints-375120.jpg.transform/cc-width-720-height-540/image.jpg",
+      "category": "Lifestyle",
+      "date": "01/07/2024, 12:18:56 PM",
+      "id": 4
+    },
+    {
+      "title": "The complete guide to business casual style for men",
+      "description": "Most modern day workplaces are loosening up their dress codes. Gone are the days when men are required to wear a suit and tie to work every day.\nBut this shift has also left many men scratching their heads and wondering, “What should I wear to work today?”\nSure, a suit and tie might not be the most comfortable outfit. But at least it makes getting dressed relatively straightforward.\nYou just wear a suit. And a tie.\nBusiness casual, on the other hand, is just…confusing.\nHow do we actually define this dress code? Are there actual rules, or a list of DOs and DON’Ts that we should follow?\n\nThe answer is, yes. Kind of.\n\nUnlike stricter dress codes like black tie, business casual is very loosely defined. It leaves a lot of room for interpretation, and different offices will interpret it differently.",
+      "image": "https://i.ytimg.com/vi/uxK5dKDFCVc/maxresdefault.jpg",
+      "category": "Lifestyle",
+      "date": "01/07/2024, 03:12:39 PM",
+      "id": 6
+    },
+    {
+      "title": "ചെറിയ ലോകവും വലിയ യാത്രകളും",
+      "description": "കുറച്ചുനാളുകൾക്ക് മുൻപാണ് സന്തോഷ് ജോർജ് അലാസ്കയിൽ പോയത്. മഞ്ഞുമൂടിയ കുന്നുകളിലൂടെ സ്ലെഡ്ജിലായിരുന്നു...\n\nനടുക്കിയ കാഴ്ച തനിക്ക് ഇഷ്ടമല്ലാത്ത പതിനായിരക്കണക്കിന് ആളുകളെ കൊന്നുതള്ളിയ പോൾപോട്ട് എന്ന ഏകാധിപതി ...\n\n",
+      "image": "https://www.manoramaonline.com/content/dam/mm/ml/travel/world-escapes/images/2018/9/3/santhosh-george-kulangara-trip3.jpg",
+      "category": "Travel",
+      "date": "02/12/2024, 11:12:24 AM",
+      "id": 7
+    },
+    {
+      "title": "Bramayugam",
+      "description": "Bramayugam is an upcoming Malayalam movie. The movie is directed by Rahul Sadasivan and will feature Mammootty and Sidharth Bharathan as lead characters.",
+      "image": "https://in.bmscdn.com/events/moviecard/ET00367666.jpg",
+      "category": "Entertainments",
+      "date": "02/12/2024, 11:17:03 AM",
+      "id": 8
+    }
+  ]
+}
